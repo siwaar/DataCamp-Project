@@ -1,4 +1,4 @@
-# RAMP starting kit : Prediction of daily validation in Paris public underground transports
+# DataCamp Project : Prediction of daily validation in Paris public underground transports
 Authors : ABBES Siwar, ABED Dina, Philippe de SAINT CHAMAS, HELLAL Mohamed Skander, HENGOAT Gwendal, ZACCARDI Jules 
 
 

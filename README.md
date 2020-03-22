@@ -29,14 +29,6 @@ Some python librairies should be installed before starting the challenge such as
 
 ``` pip install git+https://github.com/paris-saclay-cds/ramp-workflow.git```
 - Download the data via ```  download_data.py```  file. This will create and archive in your local directory. Unzip to create a folder data/ containing all the required data for this challenge. 
--  Modify the file ``` regressor.py```  with your own regressor and inluding all the data feature engineering that you have done in the ``` feature_extractor.py ``` put them in ``` submissions/my_submission```  folder.
-
-- Test locally in the staring_kit.ipynb notebook with the python command:
-``` ramp_test_submission --submission my_submission```
-- Once satisfied by the metric result, you can submit your code. 
-
-
-
 
 Data is freely downloadable <a href="https://drive.google.com/open?id=1jHVkvRu-G37tBuE6IFp-y0gi7d3hUm7E">
 here  </a>

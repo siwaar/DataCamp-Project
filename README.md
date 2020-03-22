@@ -1,5 +1,5 @@
 # RAMP starting kit : Prediction of daily validation in Paris public underground transports
-Authors : Dina ABED, Siwar ABBES, Philippe de SAINT CHAMAS, Mohamed Skander HELLAL, Gwendal HENGOAT , Jules ZACCARDI
+Authors : ABBES Siwar, ABED Dina, Philippe de SAINT CHAMAS, HELLAL Mohamed Skander, HENGOAT Gwendal, ZACCARDI Jules 
 
 
 ## Introduction 
